@@ -20,13 +20,6 @@ pip install -r requirements.txt
 
 Download the Wan2.1-T2V-1.3B model weights into `./Wan2.1-T2V-1.3B`:
 
-```bash
-pip install "huggingface_hub[cli]"
-huggingface-cli download Wan-AI/Wan2.1-T2V-1.3B --local-dir ./Wan2.1-T2V-1.3B
-```
-
----
-
 ## 3. Generate Stego Video
 
 ```bash
