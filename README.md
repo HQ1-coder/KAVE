@@ -9,8 +9,6 @@ Official implementation of **KAVE**, K-Way Angular Video Steganography with Temp
 ## 1. Installation
 
 ```bash
-git clone <this-repo-url>
-cd KAVE
 pip install -r requirements.txt
 ```
 
